@@ -1,0 +1,43 @@
+
+{
+    "customerWallets": {
+      "data": [
+        {
+          "matricula": "5051525354",
+          "nome": "Joao Nunes",
+          "CPF": "12345678910",
+          "dataDenasci": "1966-10-23",
+          "Telefone1": "(81)(11111111)",
+          "Telefone2": "(81)(222222222)",
+          "email": "joaon@email.com.br",
+          "cargo": "atendendte",
+          "estado": "PE",
+          "DataCriacao": "2021-02-07"
+        },
+        {
+          "matricula": "5125890412",
+          "nome": "Mario Andre",
+          "CPF": "50022244477",
+          "dataDenasci": "1976-11-14",
+          "Telefone1": "(81)(121211212)",
+          "Telefone2": "(81)(332113322)",
+          "email": "mario.andre@email.com.br",
+          "cargo": "vendedor",
+          "estado": "PE",
+          "DataCriacao": "2021-02-07"
+        },
+        {
+            "matricula": "5447899848",
+            "nome": "Carlos Feitosa",
+            "CPF": "44455566633",
+            "dataDenasci": "1970-04-25",
+            "Telefone1": "(81)(333334555)",
+            "Telefone2": "(81)(777778889)",
+            "email": "mario.andre@email.com.br",
+            "cargo": "gerente",
+            "estado": "PE",
+            "DataCriacao": "2021-02-07"
+        }
+      ]
+    }
+  }
